@@ -1,5 +1,0 @@
-C:/Andrei/git/python/eris-auswertesoftware-main/src - working/out/build/x64-Debug/CMakeFiles/ERIS.dir
-C:/Andrei/git/python/eris-auswertesoftware-main/src - working/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Andrei/git/python/eris-auswertesoftware-main/src - working/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/Andrei/git/python/eris-auswertesoftware-main/src - working/out/build/x64-Debug/CMakeFiles/ERIS_autogen_timestamp_deps.dir
-C:/Andrei/git/python/eris-auswertesoftware-main/src - working/out/build/x64-Debug/CMakeFiles/ERIS_autogen.dir
