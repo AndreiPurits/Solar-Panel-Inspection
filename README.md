@@ -10,7 +10,7 @@ This repository contains the source code and GUI for my Master's thesis project,
 ## Demo
 Below is an example of the working program with a highlighted hotspot:
 
-![Working Example](https://[github.com/AndreiPurits/Solar-Panel-Inspection/edit/main/guii.png](https://github.com/AndreiPurits/Solar-Panel-Inspection/blob/main/guiii.png))
+![Working Example](https://github.com/AndreiPurits/Solar-Panel-Inspection/blob/main/guiii.png)
 
 ## How It Works
 1. **Data Input**: Upload a thermographic image of the solar panel.
@@ -24,8 +24,8 @@ Unfortunately, the program requires the proprietary ERIS thermographic software,
 While you might not be able to fully run the program without ERIS, this repository serves several purposes:
 
 # Documentation: 
-1. **Provides a detailed overview of the techniques and implementation for academic and professional reference.
-2. **Learning Resource: Offers insights into developing similar systems using thermographic data and computer vision in C++.
-3. **Showcase: Demonstrates the methodology and outcomes of my Master's thesis project.
+1. Provides a detailed overview of the techniques and implementation for academic and professional reference.
+2. Learning Resource: Offers insights into developing similar systems using thermographic data and computer vision in C++.
+3. Showcase: Demonstrates the methodology and outcomes of my Master's thesis project.
 If you have access to ERIS thermographic software or similar tools, you could adapt the code for your specific use case. Otherwise, feel free to explore the repository to learn from the concepts and techniques applied here.
 
