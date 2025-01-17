@@ -10,7 +10,7 @@ This repository contains the source code and GUI for my Master's thesis project,
 ## Demo
 Below is an example of the working program with a highlighted hotspot:
 
-![Working Example](https://github.com/AndreiPurits/Solar-Panel-Inspection/edit/main/guii.png)
+![Working Example](https://[github.com/AndreiPurits/Solar-Panel-Inspection/edit/main/guii.png](https://github.com/AndreiPurits/Solar-Panel-Inspection/blob/main/guiii.png))
 
 ## How It Works
 1. **Data Input**: Upload a thermographic image of the solar panel.
